@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[crx:home|Door43 (crx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-crx|d43-crx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-crx/archive/master.zip|d43-crx.zip]]
+
+**Recent Changes**
+{{changes>ns = crx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/crx|Ethnologue data]]
+
